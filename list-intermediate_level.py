@@ -18,4 +18,4 @@ if "docker" in services:
 else:
     services.append("docker")
 
-print(services)
+# print(services)

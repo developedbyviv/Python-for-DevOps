@@ -7,7 +7,7 @@
 # Write a script that:
 # • If "docker" is in the list → print "Docker is running"
 # • Else → print "Docker is NOT running"
-# / Rules:
+# ! Rules:
 # • Use list + if
 # • No loops
 # • Simple logic
